@@ -19,3 +19,8 @@ not collaborating with, in a situation where I want to publish similar code.
 What is the benefit of having a copy of the lasat known state of the remote stored locally?
 - The user can have a restore point if the local version gets too far afield from the stable version
 - The user has access to the totality of the current state of the project.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+- Dropbox. It would be way harder to compare differences in implementation of code, update and maintain
+multiple different implementations of modules, checkout different versions of the project that I'm working on.
+Git maintains all of these features for me.
