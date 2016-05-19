@@ -24,3 +24,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 - Dropbox. It would be way harder to compare differences in implementation of code, update and maintain
 multiple different implementations of modules, checkout different versions of the project that I'm working on.
 Git maintains all of these features for me.
+
+When would  you want to make changes in a separate branch rather than directly in master? What benefits does
+each approach have?
+- You would want to make changes in a separate branch rather than directly in master not only when you're
+working on a new version, but also during collaboration to better display to your collaborators your intention
+to change the code base.
